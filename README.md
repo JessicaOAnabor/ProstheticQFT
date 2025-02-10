@@ -6,10 +6,10 @@ A prosthetic ear is primarily intended to restore or improve auditory perception
 ## Approach
 1. Modelled the enhancement of intricate sound signals, akin to those received by a prosthetic ear, through the utilization of quantum methodologies such as the Quantum Fourier Transform and quantum classifiers.
    
-2. Applied Fast Fourier Transform (FFT) in the functioning of prosthetic ears or hearing aids, enabling the breakdown of sound into its constituent frequency components via analyzing sound in both the time domain (the original signal) and the frequency domain (the output of the FFT).
+2. Applied Fast Fourier Transform (FFT) and Quantum Fourier Transform (QFT) in the functioning of prosthetic ears or hearing aids, enabling the breakdown of sound into its constituent frequency components via analyzing sound in both the time domain (the original signal) and the frequency domain (the output of the FFT).
 
 ## Results
-Quantum Fourier Transform (QFT) presents opportunities for enhanced, probabilistic, and parallel signal processing in the future. This advancement could result in more adaptable, accurate, and efficient prosthetic ears; however, the direct implementation of QFT in prosthetics remains theoretical and is currently a subject of ongoing investigation.
+Quantum Fourier Transform (QFT) presents opportunities for enhanced, probabilistic, and parallel signal processing in the future. When QFT is integrated with FFT, the advancement could result in more adaptable, accurate, and efficient prosthetic ears; however, the direct implementation of QFT in prosthetics remains theoretical and is currently a subject of ongoing investigation.
 
 ## Documents Attached
 The documents attached are:
